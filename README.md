@@ -1,12 +1,14 @@
 # shell-scripts
 Linux Shell Scripts
 
-#一键安装 BBR
+# 一键安装 BBR
 
 ## 安装
+`
 wget https://github.com/qian-jiahong/shell-scripts/blob/master/ovz-bbr/ovz-bbr-installer.sh
 chmod +x ovz-bbr-installer.sh
 ./ovz-bbr-installer.sh
+`
 
 ## 卸载
 ./ovz-bbr-installer.sh uninstall
